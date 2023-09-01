@@ -1,5 +1,5 @@
 # 💫 About Me:
-A front end web developer looking to kickstart a career in web development.
+A front end web developer looking to kickstart a career in web development. Currently doing React and doing projects on the side.
 
 
 ## 🌐 Socials:
